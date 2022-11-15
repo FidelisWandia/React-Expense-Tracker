@@ -1,0 +1,15 @@
+.input-elements-div{
+    display:flex;
+    flex-direction: column;
+    max-width:500px;
+    margin-left: 20px;
+}
+
+input{
+    margin-top:10px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid;
+    outline: none;
+}
+
