@@ -1,0 +1,12 @@
+.date-container{
+    width: 70px;
+    height: 70px;
+    border: 1px solid;
+    background: black;
+    color:white;
+    font-size:1.1rem;
+    font-weight: bold;
+    border-radius:5px;
+    display: flex;
+    flex-direction: column;
+}

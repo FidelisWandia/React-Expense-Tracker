@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.container{
+    background:pink;
+    max-width: 700px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5px;
+}
+
+.cancel{
+    width: 20px;
+    height: 20px;
+    background: yellow;
+    text-align: center;
+}
+
